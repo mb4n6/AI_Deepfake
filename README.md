@@ -1,6 +1,6 @@
 # AI Deepfake
 
-This repository contains materials for the **AI Deepfake / Image Forensics module**, including synthetic images, prompts, and resources for hands-on analysis of AI-generated media.
+This repository contains materials for the **AI Deepfake / Image Forensics module**, including synthetic images and resources for hands-on analysis of AI-generated media.
 
 The goal is to provide a **practical environment** to explore:
 
