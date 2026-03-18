@@ -18,9 +18,9 @@ The repository contains pairs of images and prompts:
 | File Type | Description |
 |----------|------------|
 | `IMG_XXXX.jpeg` | Reference image |
-| `IMG_XXXX.jpeg.txt` | Prompt for generation |
+| `IMG_XXXX.jpeg.txt` | Metadata / exiftool |
 | `imageX.png` | Synthetic image |
-| `imageX.png.txt` | Prompt used |
+| `imageX.png.txt` | Metadata / exiftool  |
 
 ---
 
