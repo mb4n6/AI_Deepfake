@@ -1,0 +1,162 @@
+ExifTool Version Number         : 13.36
+File Name                       : picture5.jpg
+Directory                       : /Users/marcbrandt/Desktop/KI Advanced DEV/deepfake
+File Size                       : 3.8 MB
+File Modification Date/Time     : 2026:03:18 19:35:54+01:00
+File Access Date/Time           : 2026:03:18 19:36:51+01:00
+File Inode Change Date/Time     : 2026:03:18 19:36:18+01:00
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone Air
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 26.3.1
+Modify Date                     : 2026:03:18 19:30:54
+Host Computer                   : iPhone Air
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/51
+F Number                        : 1.6
+Exposure Program                : Program AE
+ISO                             : 160
+Exif Version                    : 0232
+Date/Time Original              : 2026:03:18 19:30:54
+Create Date                     : 2026:03:18 19:30:54
+Offset Time                     : +01:00
+Offset Time Original            : +01:00
+Offset Time Digitized           : +01:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/51
+Aperture Value                  : 1.6
+Brightness Value                : 1.976973332
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 6.0 mm
+Subject Area                    : 2859 2142 3142 1885
+Maker Note Version              : 16
+Run Time Flags                  : Valid
+Run Time Value                  : 480716118997666
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 194
+AE Average                      : 201
+AF Stable                       : Yes
+Acceleration Vector             : -0.03905614092 -0.8038095836 -0.5996657014
+Focus Distance Range            : 0.72 - 2.80 m
+Content Identifier              : 564089A1-5DB4-4C75-8E10-4FA9C4D7C15B
+Image Capture Type              : Scene
+Live Photo Video Index          : 8595185700
+Photos App Feature Flags        : 0
+HDR Headroom                    : 1.00999999
+AF Performance                  : 16 1 66
+Signal To Noise Ratio           : 38.37870789
+Photo Identifier                : 3F8D4993-9267-4FD0-B015-E5AD2D1B94EB
+Color Temperature               : 2499
+Camera Type                     : Back Normal
+Focus Position                  : 179
+HDR Gain                        : 3.630568744
+Sub Sec Time Original           : 132
+Sub Sec Time Digitized          : 132
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 5712
+Exif Image Height               : 4284
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 5.960000038mm f/1.6
+Lens Make                       : Apple
+Lens Model                      : iPhone Air back camera 5.96mm f/1.6
+Composite Image                 : General Composite Image
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 18:30:52
+GPS Speed Ref                   : km/h
+GPS Speed                       : 0.1768231839
+GPS Img Direction Ref           : True North
+GPS Img Direction               : 37.77819824
+GPS Dest Bearing Ref            : True North
+GPS Dest Bearing                : 37.77819824
+GPS Date Stamp                  : 2026:03:18
+GPS Horizontal Positioning Error: 2.104029701 m
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 3230
+Thumbnail Length                : 6781
+MPF Version                     : 0100
+Number Of Images                : 2
+MP Image Flags                  : (none)
+MP Image Format                 : JPEG
+MP Image Type                   : Undefined
+MP Image Length                 : 539165
+MP Image Start                  : 3256814
+Dependent Image 1 Entry Number  : 0
+Dependent Image 2 Entry Number  : 0
+Uniform Resource Name           : urn:iso:std:iso:ts:21496:-1
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : 0
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+HDR Gain Curve Size             : 267
+HDR Gain Curve                  : (Binary data 2046 bytes, use -b option to extract)
+Image Width                     : 5712
+Image Height                    : 4284
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Run Time Since Power Up         : 5 days 13:31:56
+Aperture                        : 1.6
+Image Size                      : 5712x4284
+Megapixels                      : 24.5
+Scale Factor To 35 mm Equivalent: 4.4
+Shutter Speed                   : 1/51
+Create Date                     : 2026:03:18 19:30:54.132+01:00
+Date/Time Original              : 2026:03:18 19:30:54.132+01:00
+Modify Date                     : 2026:03:18 19:30:54+01:00
+Thumbnail Image                 : (Binary data 6781 bytes, use -b option to extract)
+GPS Altitude                    : 533.2 m Above Sea Level
+GPS Date/Time                   : 2026:03:18 18:30:52Z
+GPS Latitude                    : 48 deg 42' 40.05" N
+GPS Longitude                   : 8 deg 43' 8.22" E
+MP Image 2                      : (Binary data 539165 bytes, use -b option to extract)
+Circle Of Confusion             : 0.007 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 6.0 mm (35 mm equivalent: 26.0 mm)
+GPS Position                    : 48 deg 42' 40.05" N, 8 deg 43' 8.22" E
+Hyperfocal Distance             : 3.22 m
+Light Value                     : 6.4
+Lens ID                         : iPhone Air back camera 5.96mm f/1.6
