@@ -1,0 +1,5 @@
+picture1 = echt
+picture2 = echt
+picture3 = synth
+picture4 = synth
+picture5 = echt
